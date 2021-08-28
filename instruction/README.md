@@ -42,7 +42,9 @@ Figure 9.2 Bitonic sorter dataflow using sorters (comparators) to sort 16 values
 ## Prelab
 
 :point_right: **Prelab Task 1:** Preparing .COE file with initial values.
+
 :point_right: **Prelab Task 2:** Apply the parallel sorting algorithms on an example with 16 data values and show how it works.
+
 :point_right: **Prelab Task 3:** Write pseudocode for your designs.
 
 ## Procedure
